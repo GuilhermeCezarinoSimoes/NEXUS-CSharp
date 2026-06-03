@@ -1,0 +1,6 @@
+@AlertsAPI_HostAddress = http://localhost:5080
+
+GET {{AlertsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
