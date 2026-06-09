@@ -10,8 +10,8 @@
 | Nome | RM |
 |---|---|
 | Guilherme Cezarino Simões | RM560539 |
-| Fabrini | RM560207 |
-
+| Fabrini Araujo | RM560207 |
+| Rodrigo Leme | RM550266 |
 ---
 
 ## Descrição do Projeto
